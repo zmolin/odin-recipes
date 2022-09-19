@@ -1,1 +1,1 @@
-# odin-recipes
+# Attached you will find the recipes I have developed in a format presented by the odin project as a test of my ability with html. I hope to add to this project as I learn more CSS and JavaScript to create a presentable and dynamic recipe library in my image.
